@@ -1,4 +1,10 @@
-# Hi Lol ,,,,,
+# sup
+
+### My Languages/Tools 
+
+<img align="left" alt="Kotlin" width="26px" src="https://sdtimes.com/wp-content/uploads/2019/10/1200px-Kotlin-logo.svg_-490x490.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 ### My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brew600&show_icons=true&theme=dracula)
