@@ -8,7 +8,7 @@
 <br />
 
 ### My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brew600&show_icons=true&theme=dracula&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=brew600&show_icons=true&theme=merko" alt="brew600" />
 
 ### My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brew600&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
