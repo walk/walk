@@ -3,7 +3,6 @@
 ### My Languages/Tools 
 
 <img align="left" alt="Kotlin" width="26px" src="https://sdtimes.com/wp-content/uploads/2019/10/1200px-Kotlin-logo.svg_-490x490.png" />
-<img align="left" alt="Java" width="26px" src="http://codehustler.org/wp-content/uploads/2012/12/java_logo.png" />
 <br />
 <br />
 
