@@ -8,17 +8,17 @@
 <br />
 
 ### My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=brew600&show_icons=true&theme=merko&count_private=true" alt="brew600" />
+<img src="https://github-readme-stats.vercel.app/api?username=walk&show_icons=true&theme=merko&count_private=true" alt="walk" />
 
 ### My Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brew600&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walk&layout=compact)
 
 ### Wakatime Statistics
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brew600)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
-**brew600/brew600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**walk/walk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
